@@ -1,0 +1,12 @@
+package: github.com/ghongli/logServer
+license: MIT
+owners:
+- name: saltsam.steve
+  email:
+  homepage:
+ignore:
+- appengine
+excludeDirs:
+- node_modules
+- vendor
+import:
